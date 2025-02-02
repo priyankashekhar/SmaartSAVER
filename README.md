@@ -1,13 +1,12 @@
 # SmaartSAVER
-Goal-based financial planning tool designed to help users optimize their savings, track expenses, and make smarter financial decisions.
+ A tool developed for Goal-based financial planning in order to help users optimize their savings, track expenses, and make better financial decisions.
 
-SmaartSAVER is a goal-based financial planning tool designed to help users optimize their savings, 
-track expenses, and make smarter financial decisions. Unlike traditional budgeting apps,
-SmaartSAVER dynamically adjusts savings strategies based on real-time expenditures and integrates with external platforms to enhance user engagement.
-
- ### Key Features:
- * Goal-Oriented Savings: Set savings targets with deadlines and track progress.
- * Dynamic Budget Adjustments: Automatically recalibrates savings when unexpected expenses occur.
- * Expense & Savings Optimization: Distributes monthly savings efficiently across multiple goals.
- * Third-Party Integrations: Connect with platforms like travel, retail, and finance for exclusive deals.
- * Intuitive UI/UX: User-friendly dashboards for seamless financial planning.
+SmaartSAVER is an application which is based on goals and according to goals it will help you optimize your financial plannings where you can put your savings goal, track the progress and make better and smarter financial decisions. 
+SmaartSAVER is not like the tradtional applications used for savings rather it has dynamical adjustment features to adjust your saving strategies based on real-time expenditure and gives a smart feature of integrating with the 3rd party apps.
+ 
+ ### Features Offered:
+ * Goal-Oriented Savings: Sets the goal based on time and define the savings metrics accordingly.
+ * Dynamic Budget Adjustments: Recalculates savings savings automatically when unforeseen costs arise.
+ * Expense & Savings Optimization: Helps in effective allocation of monthly savings among several objectives.
+ * Third-Party Integrations: Gives special offers by connecting with platforms like travel, retail, and finance and making it more dynamic.
+ * Intuitive UI/UX:  Financial planning made easy with intuitive dashboards.
